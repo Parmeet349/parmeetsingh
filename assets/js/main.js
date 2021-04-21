@@ -27,7 +27,8 @@ jQuery(document).ready(function($) {
     
     $("#rss-feeds").rss(
     
-        "http://feeds.feedburner.com/geekypajis/dzSp",
+        /*"http://feeds.feedburner.com/geekypajis/dzSp",*/
+	"https://geekypajis.blogspot.com/feeds/posts/default",
         
         {
         limit: 3,
